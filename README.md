@@ -1,5 +1,4 @@
-                        
-                          Data Visualization
+### Data Visualization
 
 Data Visualization is second of the final three projects from book
 Python Crash Course 2ed and as it is a learning project, large parts of
